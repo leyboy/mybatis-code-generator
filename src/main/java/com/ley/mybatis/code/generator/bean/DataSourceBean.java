@@ -1,7 +1,7 @@
 package com.ley.mybatis.code.generator.bean;
 
 /**
- *datasource bean
+ *datasource bean .
  * **/
 public class DataSourceBean {
 
